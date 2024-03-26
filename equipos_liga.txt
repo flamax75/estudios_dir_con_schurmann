@@ -1,0 +1,18 @@
+Nombre: Bayern München, Código: FCB
+Nombre: FC Schalke 04, Código: S04
+Nombre: Eintracht Frankfurt, Código: FFM
+Nombre: Arminia Bielefeld, Código: DSC
+Nombre: 1. FC Union Berlin, Código: FCU
+Nombre: FC Augsburg, Código: FCA
+Nombre: 1. FC Köln, Código: KOE
+Nombre: TSG 1899 Hoffenheim, Código: HOF
+Nombre: Werder Bremen, Código: BRE
+Nombre: Hertha BSC, Código: BSC
+Nombre: VfB Stuttgart, Código: VFB
+Nombre: SC Freiburg, Código: SCF
+Nombre: Borussia Dortmund, Código: BVB
+Nombre: Bor. Mönchengladbach, Código: BMG
+Nombre: RB Leipzig, Código: RBL
+Nombre: 1. FSV Mainz 05, Código: M05
+Nombre: VfL Wolfsburg, Código: WOB
+Nombre: Bayer 04 Leverkusen, Código: B04
