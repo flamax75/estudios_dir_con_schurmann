@@ -1,6 +1,6 @@
 from pathlib import Path
 
-ruta_archivo = "/home/flamax75/archivo.txt"
+ruta_archivo = "/home/flamax75/arcivo.txt"
 nuevo_texto = """Ah, keep your eyes on the road, your hand upon the wheel
 Keep your eyes on the road, your hand upon the wheel
 Yeah, we're going to the roadhouse, gonna have a real, a good-time
@@ -67,9 +67,9 @@ try:
     print(contenido_reemplazado)
 
 except Exception as e:
-    print(f"error en reemplazar el contenido del archivo {e}")
+    print(f"error en reemplazar el contenido del arcivo {e}")
 
-archivo_original = Path("/home/flamax75/archivo.txt")
+archivo_original = Path("/home/flamax75/arcivo.txt")
 nuevo_nombre_archivo = "letras_rooadhouse_TheDoors.txt"
-# archivo.write_text("\n".join(texto), "utf
+# arcivo.write_text("\n".join(texto), "utf
 archivo_original.rename(archivo_original.with_name(nuevo_nombre_archivo))

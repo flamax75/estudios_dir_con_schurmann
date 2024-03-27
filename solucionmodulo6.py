@@ -23,7 +23,7 @@ def mostrar_nombres_y_codigos(data):
 
 
 def guardar_datos_en_txt(data, nombre_archivo):
-    # Guardar la información en un archivo TXT
+    # Guardar la información en un arcivo TXT
     with open(nombre_archivo, 'w') as file:
         for club in data['clubs']:
             nombre = club['name']
@@ -70,7 +70,7 @@ def main():
         print("1. Equipos participantes:", contar_equipos(datos_liga))
         print("2. Nombres de club y códigos:")
         mostrar_nombres_y_codigos(datos_liga)
-        print("Datos guardados en archivo de texto 'equipos_liga.txt'")
+        print("Datos guardados en arcivo de texto 'equipos_liga.txt'")
         guardar_datos_en_txt(datos_liga, 'equipos_liga.txt')
 
 
