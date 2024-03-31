@@ -20,5 +20,7 @@ print(path.name,
 
 new_path = path.with_suffix(".bat")
 path.rename(new_path)
+
+
 new_path2 = new_path.with_stem("nicolas")
 new_path.rename(new_path2)
